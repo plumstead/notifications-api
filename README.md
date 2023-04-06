@@ -1,21 +1,9 @@
-# <REPLACE WITH USEFUL TERRAFORM DESCRIPTION>
+# Plumstead Notifications API
 
 [![Terraform CI](./actions/workflows/continuous-integration-terraform.yml/badge.svg?branch=main)](./actions/workflows/continuous-integration-terraform.yml?branch=main)
 [![GitHub release](./releases)](./releases)
 
-This <module/project> creates and manages <REPLACE WITH MAIN RESOURCE NAMES/URLS>.
-
-## Usage
-
-Example module usage:
-
-```hcl
-module "<MODULE NAME>" {
-  source  = "github.com/<ORG>/<MODULE NAME>?ref=v<VERSION>"
-
-  environment = "dev/staging/test/pre-prod/prod/post-prod"
-}
-```
+This project creates and manages the Plumstead Notifications API
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
