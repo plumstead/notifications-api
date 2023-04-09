@@ -8,3 +8,5 @@ override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
+backend.tf
+lambdas/archive-file-output/*.zip
